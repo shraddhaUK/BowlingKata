@@ -1,0 +1,9 @@
+C:\Users\kapses\coding\src\BowlingKata\BowlingKata\BowlingKata\bin\Debug\BowlingKata.dll
+C:\Users\kapses\coding\src\BowlingKata\BowlingKata\BowlingKata\bin\Debug\BowlingKata.pdb
+C:\Users\kapses\coding\src\BowlingKata\BowlingKata\BowlingKata\bin\Debug\nunit.framework.dll
+C:\Users\kapses\coding\src\BowlingKata\BowlingKata\BowlingKata\bin\Debug\nunit.framework.xml
+C:\Users\kapses\coding\src\BowlingKata\BowlingKata\BowlingKata\obj\Debug\BowlingKata.csprojAssemblyReference.cache
+C:\Users\kapses\coding\src\BowlingKata\BowlingKata\BowlingKata\obj\Debug\BowlingKata.csproj.CoreCompileInputs.cache
+C:\Users\kapses\coding\src\BowlingKata\BowlingKata\BowlingKata\obj\Debug\BowlingKata.csproj.CopyComplete
+C:\Users\kapses\coding\src\BowlingKata\BowlingKata\BowlingKata\obj\Debug\BowlingKata.dll
+C:\Users\kapses\coding\src\BowlingKata\BowlingKata\BowlingKata\obj\Debug\BowlingKata.pdb
